@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstReactWebsite/static/css/main.103508ba.css",
+    "main.js": "/firstReactWebsite/static/js/main.292f9370.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/firstReactWebsite/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/Dorian Gray.woff": "/firstReactWebsite/static/media/Dorian Gray.f20af9423aa3b45ebc83.woff",
+    "index.html": "/firstReactWebsite/index.html",
+    "main.103508ba.css.map": "/firstReactWebsite/static/css/main.103508ba.css.map",
+    "main.292f9370.js.map": "/firstReactWebsite/static/js/main.292f9370.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/firstReactWebsite/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103508ba.css",
+    "static/js/main.292f9370.js"
+  ]
+}
