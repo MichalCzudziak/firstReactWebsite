@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Dorian Gray Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Dorian Gray Regular"), url("Dorian Gray.woff") format("woff");
+}
+
+h1 {
+  font-family: "Dorian Gray Regular";
+  font-weight: 200;
+  color: #0ccac4;
+}
